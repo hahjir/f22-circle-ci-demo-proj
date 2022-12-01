@@ -10,7 +10,7 @@ public class HomeApi {
     @GetMapping
     public String home()
     {
-        return "Hello, there!";
+        return "Hello, world!";
     }
 
 }
